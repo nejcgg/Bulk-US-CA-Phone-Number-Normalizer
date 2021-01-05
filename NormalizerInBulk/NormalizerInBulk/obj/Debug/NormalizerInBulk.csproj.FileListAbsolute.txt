@@ -1,0 +1,7 @@
+C:\Users\nejct\source\repos\NormalizerInBulk\NormalizerInBulk\bin\Debug\NormalizerInBulk.exe.config
+C:\Users\nejct\source\repos\NormalizerInBulk\NormalizerInBulk\bin\Debug\NormalizerInBulk.exe
+C:\Users\nejct\source\repos\NormalizerInBulk\NormalizerInBulk\bin\Debug\NormalizerInBulk.pdb
+C:\Users\nejct\source\repos\NormalizerInBulk\NormalizerInBulk\obj\Debug\NormalizerInBulk.csprojAssemblyReference.cache
+C:\Users\nejct\source\repos\NormalizerInBulk\NormalizerInBulk\obj\Debug\NormalizerInBulk.csproj.CoreCompileInputs.cache
+C:\Users\nejct\source\repos\NormalizerInBulk\NormalizerInBulk\obj\Debug\NormalizerInBulk.exe
+C:\Users\nejct\source\repos\NormalizerInBulk\NormalizerInBulk\obj\Debug\NormalizerInBulk.pdb
